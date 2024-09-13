@@ -45,7 +45,21 @@ By combining these two approaches, we will efficiently gather and organize the n
 ![dataGathering](https://github.com/user-attachments/assets/5641559c-d9ac-4f59-bf21-ab8bd1747f80)
 
 
-### 1. Data Formatting
+
+## 1. Data Formatting Instructions
+### a. Format the Date Column:
+Ensure that the "Date" column is in a consistent date format (e.g., MM/DD/YYYY or YYYY-MM-DD). Select the entire column, go to the "Home" tab, and click on the "Number Format" drop-down. Choose "Short Date" or "Custom" to apply the desired date format.
+### b. Format the "Size" Column:
+Convert the values in the "Size" column to the same unit of measurement. If the column contains mixed units, convert them all to a single unit, such as KG. 
+### c. Format "Unit Price" and "Sales" Columns in USD:
+Select the columns that contain unit price and sales data. In the "Home" tab, click on the "Number Format" drop-down and choose "Currency" or "Accounting". Make sure to set the currency to "USD ($)" to represent the data correctly in dollars.
+### d. Check for Duplicate Values:
+Identify and handle duplicate values in the dataset. Select the entire dataset, then go to the "Data" tab and click on "Remove Duplicates". Review the list of columns that Excel will check for duplicates and make sure the correct columns are selected.
+### e. Convert Dataset to Table:
+To improve usability, convert the dataset into an Excel table. Click anywhere within the dataset, then press CTRL + T to bring up the "Create Table" dialog. Confirm the range and ensure "My table has headers" is checked, then click "OK". Once the table is created, go to the "Table Design" tab and rename the table to something meaningful by editing the "Table Name" field (e.g., Orders).
+
+
+These steps will ensure that your dataset is well-organized, standardized, and ready for further analysis or reporting.
 
 
 
