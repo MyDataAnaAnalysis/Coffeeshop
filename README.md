@@ -46,7 +46,7 @@ By combining these two approaches, we will efficiently gather and organize the n
 
 
 
-## 1. Data Formatting Instructions
+## 2. Data Formatting Instructions
 ### a. Format the Date Column:
 Ensure that the "Date" column is in a consistent date format (e.g., MM/DD/YYYY or YYYY-MM-DD). Select the entire column, go to the "Home" tab, and click on the "Number Format" drop-down. Choose "Short Date" or "Custom" to apply the desired date format.
 ### b. Format the "Size" Column:
@@ -64,7 +64,7 @@ These steps will ensure that your dataset is well-organized, standardized, and r
 ![TableFormatting](https://github.com/user-attachments/assets/04b2a896-59dd-4a00-a191-fbe4840d7132)
 
 
-## 1. PivotTables & PivotCharts
+## 3. PivotTables & PivotCharts
 
 
 
