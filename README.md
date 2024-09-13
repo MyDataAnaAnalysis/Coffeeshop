@@ -42,7 +42,7 @@ Unlike VLOOKUP, which has certain limitations in terms of column position and pe
 
 By combining these two approaches, we will efficiently gather and organize the necessary data for the dashboard, ensuring accuracy and adaptability in the process.
 
-![dataGathering](https://github.com/user-attachments/assets/c54f4a76-971e-4a14-8a89-f9a346db81cf)
+![dataGathering](https://github.com/user-attachments/assets/5641559c-d9ac-4f59-bf21-ab8bd1747f80)
 
 
 ### 1. Data Formatting
