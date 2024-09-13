@@ -61,5 +61,10 @@ To improve usability, convert the dataset into an Excel table. Click anywhere wi
 
 These steps will ensure that your dataset is well-organized, standardized, and ready for further analysis or reporting.
 
+![TableFormatting](https://github.com/user-attachments/assets/04b2a896-59dd-4a00-a191-fbe4840d7132)
+
+
+## 1. PivotTables & PivotCharts
+
 
 
