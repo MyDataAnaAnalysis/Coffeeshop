@@ -65,6 +65,13 @@ These steps will ensure that your dataset is well-organized, standardized, and r
 
 
 ## 3. PivotTables & PivotCharts
+### a. Insert pivot_table and name accordingly
+### c. Drag OrderDate to Rows and configure for just years and months. (Right-Click the pivot table ==> Group==> select Year & Month
+### d. show pivot in tabular form. Goto Design ==> Report Layout ==> select "Show in Tabular Form"
+### e. Insert 3 slicers for Roast Type Name, Size and Loyalty Card
+
+
+
 
 
 
